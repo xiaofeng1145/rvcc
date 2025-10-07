@@ -4,7 +4,7 @@
 
 ### rvcc课程资料
 
-课程用到的资料（环境构建，Q&A等）都在[rvcc-course](https://github.com/sunshaoce/rvcc-course)。
+课程用到的资料（环境构建，Q&A等）都在[rvcc-course](https://github.com/xiaofeng1145/rvcc-course)。
 
 如需发起Issue或者PR，或者是其他问题，也请访问：https://github.com/sunshaoce/rvcc-course 。
 
